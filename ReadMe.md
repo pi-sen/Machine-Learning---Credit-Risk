@@ -81,6 +81,3 @@ Future enhancements could include:
 - Implementing a CI/CD pipeline for model deployment.
 - Exploring additional features or external datasets to improve model performance.
 - Investigating advanced techniques for handling imbalanced datasets.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
